@@ -101,6 +101,11 @@ npm run dev
 - Frontend: http://localhost:5173
 - Backend API: http://localhost:3000
 
+### Demo Credentials
+You can use the following demo account to test the application:
+- Email: test@example.com
+- Password: password
+
 ## Common Issues
 
 1. If you encounter database connection issues:
